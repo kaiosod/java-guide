@@ -1,0 +1,4 @@
+Nome: Fulano
+CPF: 873.496.234-55
+Nacionalidade: Brasileiro
+Estado civil: Solteiro
